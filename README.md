@@ -408,10 +408,6 @@ d) Documentation:
 
 Example of an effective issue:
 
-
-
-
-
 # Bug: Login Page Unresponsive on Mobile Devices
 
 ## Description
@@ -475,6 +471,7 @@ d) Progress Tracking:
 e) Sprint Planning:
 - Can be used to plan and track sprints in agile development
 
+how it these tools enhance collaborative efforts.
 
 1. Centralized Communication:
    - All project-related discussions are in one place
