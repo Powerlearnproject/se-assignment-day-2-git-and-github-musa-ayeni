@@ -41,14 +41,6 @@ Documentation: Commit messages provide a record of why changes were made.
 Version control, and platforms like GitHub that implement it, are essential for maintaining project integrity, facilitating collaboration, and ensuring a smooth development process.
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?:
-Setting Up a GitHub Repository
-
-
-M
-Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
-Discuss the importance
-
-
 Here's a concise overview of setting up a new repository on GitHub:
 
 Log in to GitHub and click "New repository"
